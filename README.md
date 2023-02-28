@@ -6,7 +6,7 @@ The goal of your project:
 
 - The goal of this project is to collect data from the internet and perform data cleaning, transformation, and visualization in order to extract insights and gain a better understanding of the dataset. Specifically, the project involves scraping data from the IMDB website to collect information about the top 1000 grossing movies, including features such as title, year, gross, votes, rating, and metascore.
 
-Once the data has been collected and cleaned, the next step is to visualize the data using various tools and techniques to better understand the relationships between different variables. For example, the project will examine the relationship between metascore and gross or rating and gross to determine if there are any correlations.
+- Once the data has been collected and cleaned, the next step is to visualize the data using various tools and techniques to better understand the relationships between different variables. For example, the project will examine the relationship between metascore and gross or rating and gross to determine if there are any correlations.
 
 Links to any relevant API documentation:
 
